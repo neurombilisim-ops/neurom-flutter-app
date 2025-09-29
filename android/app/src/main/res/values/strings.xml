@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Neurom Güvenlik</string>
+
+    <string name="facebook_app_id">1121696006576820</string>
+
+    <string name="facebook_client_token">f359b71af42706b64fee27df3c14222f</string>
+
+    <string name="fb_login_protocol_scheme">fb1121696006576820</string>
+
+    <string name="flutter_downloader_notification_started">Download started</string>
+    <string name="flutter_downloader_notification_in_progress">Download in progress</string>
+    <string name="flutter_downloader_notification_canceled">Download canceled</string>
+    <string name="flutter_downloader_notification_failed">Download failed</string>
+    <string name="flutter_downloader_notification_complete">Download complete</string>
+    <string name="flutter_downloader_notification_paused">Download paused</string>
+</resources>

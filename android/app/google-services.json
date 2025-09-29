@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "432546737884",
+    "project_id": "neurom-bilisim-store",
+    "storage_bucket": "neurom-bilisim-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432546737884:android:def702422288b8edf98e19",
+        "android_client_info": {
+          "package_name": "com.neurombilisim.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144496499867-k2rnphqgshvdjpc7jv2c20li6so81noo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neurombilisim.store",
+            "certificate_hash": "584a2fcc6fe0a6837040b821fd66187dafebc4ae"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFhZLarYYaCQcVxrGP-dLN5-FZNYJLPhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
